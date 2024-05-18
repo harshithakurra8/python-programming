@@ -20,7 +20,34 @@ def fire(rounds):
     while rounds:
         print("🔥")
 rounds-=1
-fire(18)
+fire(6)
+
+
+
+def fire(rounds):
+    print("....Loading Ammoo....")
+    print("....firing....")
+    while rounds:
+        if rounds:
+            print("🔥")
+            rounds-=1
+        else:
+            print("RELOAD!!!!!")
+            break
+
+fire(2)
+
+
+counter=0
+while counter!=4:
+    counter+=1
+
+    if (counter%2)!=0:
+        continue
+    print(counter)
+    print("end")
+
+
 
 
 
