@@ -4,6 +4,19 @@ contacts={
      "harry":66857867,
      "rao":8678767
 }
+client=input("Search🔍:")
+try:
+  print(client,contacts[client])
+except KeyError:
+    print(client,"Not found!")
+
+   
+contacts={
+     "jerry":8687678,
+     "ben":757765,
+     "harry":66857867,
+     "rao":8678767
+}
 class CapitalizationError(Exception):
     pass
 
@@ -15,5 +28,8 @@ if client[0]!=client[0].upper():
 try:
   print(client,contacts[client])
 except KeyError:
-    print(client,"Not found!")
+    print(client,"Not found!")   
+
+
+
              
