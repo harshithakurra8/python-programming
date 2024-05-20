@@ -40,7 +40,7 @@ def log(*values,decor="-",**kwargs):
         kwargs["padding"]=2
 
         kwargs.setdefault("padding",2)
-        kwargs.setdefault("end","/n")
+        kwargs.setdefault("end")
     for val in values:
         val=str(val)
         len_val=len(val)
