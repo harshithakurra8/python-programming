@@ -1,0 +1,25 @@
+while loop:
+While loop is a fundamental control flow structure (or loop statement) in programming, enabling the execution of a block of code repeatedly as long as a specified condition remains true. Unlike the for loop, which is tailored for iterating a fixed number of times, the while loop excels in scenarios where the number of iterations is uncertain or dependent on dynamic conditions.
+break-it can be used to break the loop whenever we want.
+looping statements also known as iterative statements.
+loop-run multiple times
+pass-skip the statement(ignore)
+break-terminate the loop
+continue-skip the current iteration
+
+function:
+
+A function is a block of code which only runs when it is called.
+
+You can pass data, known as parameters, into a function.
+
+A function can return data as a result.
+
+function within a function is Nested function.
+
+Reusability using import keyword.
+
+lambda functions  are anonymous functions.
+
+Classes& Objects:
+Classes are nothing but templates of creating Objects.

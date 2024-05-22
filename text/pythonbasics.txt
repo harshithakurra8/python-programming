@@ -1,0 +1,100 @@
+Python
+Python is an object oriented & High level & Scripting Language.
+Python uses .py extension.
+print - It  is a built in function in python which performs specific tasks.
+print given value to the terminal.
+
+Python Datatypes:
+A data which is created and stored in an organized way to perform various operations on it is called Data Structure.
+
+Datatypes:
+int-integer
+"str"-string
+list
+dict-Dictionary
+Bool-Boolen (true(or)false)
+
+To  store these datatypes we can create  variables.
+
+def Keyword:
+function are block of codes that can be executed more than once using reference name like print or input.
+To declare a function we need to write def keyword.
+
+Strings:
+-String is a textual data within Quotes.
+
+-We can follow positive indexing or negative indexing through Slicing Index.
+
+-We can define multiline string with three single quotes or three double quotes.
+
+-String has start index and end index.
+
+-We can use  .  operator  to access those built-in functions that came with strings or methods.
+
+Numerical Datatypes:
+
+int
+float
+complex
+Numerical Operations
++,-,*,/,//,%,**
+
+abs - absolute function
+
+It is used to convert negative function to  positive.
+
+max-maximum value
+min-minimum value
+
+round-rounding of logically
+ 
+Boolen:
+
+bool
+True
+(or)
+False
+
+In python, any integer '0' is considered as a false value,an non-zero integer is considered as a true value.
+
+A string is empty is considered as false.
+
+A float like 0.0 is considered as false.
+
+Tuple:
+tpl
+tpl  - tuple
+
+A tuple can not be  modified.
+
+Set:
+set
+Unordered list:
+
+             A list whose order is not taken into consideration which means they are not index.you can not perform slicing in these set as well.
+
+Mathematical Set operations:
+       If they are duplicates in a set  they are removed.
+       A set only store unique values,not duplicates.
+
+SET OPERATIONS:
+
+interrsection
+difference
+Symmetric_difference
+union
+
+decision control:
+
+elif statement,
+Comparision operatiors,
+Joining Condition ,
+Ternary operators
+
+Joining Condition
+And,or,not,in keywords
+
+match case statement:
+variables,functioncalls,even Conditions can be passed  to match statements and matching.
+
+
